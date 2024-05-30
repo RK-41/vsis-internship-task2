@@ -20,3 +20,5 @@ This website is a landing page designed to promote the launch event of new jet a
 
 **Overall, this website utilizes a combination of essential web development tools to create a captivating landing page that effectively promotes the jet & chopper launch event, enhanced by a theme that embodies the dynamic and sleek nature of aviation.**
 
+## Web Page Snap
+![task2](https://github.com/RK-41/vsis-internship-task2/assets/73783957/86cf3d48-3d8c-40d2-a504-39edaf1c5ee5)
