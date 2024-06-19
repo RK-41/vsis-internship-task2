@@ -4,6 +4,8 @@
 
 This website is a landing page designed to promote the launch event of new jet and chopper models. It utilizes HTML, CSS, and JavaScript to deliver an engaging and informative user experience, with a theme that captures the essence of aviation.
 
+[Check it out](https://take-flight.netlify.app/)
+
 **Features:**
 
 * **Aviation-Themed Design:** The website features a sleek, dark theme with metallic accents, reflecting the modern and sophisticated aesthetics of jets and helicopters.
